@@ -1,0 +1,19 @@
+.button1{
+    padding: 20px;
+    border-radius: 10px;
+    border-color: blue;
+    color: white;
+    background-color: gray;
+}
+
+.button2{
+    padding: 20px;
+    border-radius: 10px;
+    border-color: blue;
+    color: white;
+    background-color: gray;
+}
+
+.disabled{
+    opacity: 0.2;
+}
