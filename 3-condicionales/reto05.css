@@ -1,0 +1,17 @@
+.success{
+    border: darkgreen 5px solid;
+    background-color: lightgreen;
+    color: darkgreen;
+}
+
+.error{
+    border: darkred 5px solid;
+    background-color: red;
+    color: darkred;
+}
+
+.warning{
+    border: darkorange 5px solid;
+    background-color: yellow;
+    color: darkorange;
+}
